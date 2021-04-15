@@ -1,2 +1,1 @@
-# hello-world
-tutorial repository
+My names jimmy i like potatos
